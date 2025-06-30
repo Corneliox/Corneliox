@@ -62,17 +62,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📌 Pinned Projects
-
-<a href="https://github.com/Corneliox/parkinson-yolo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=parkinson-yolo&theme=tokyonight" />
-</a>
-<a href="https://github.com/Corneliox/palmistry-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=palmistry-ai&theme=tokyonight" />
-</a>
-
----
-
 ### 📂 Project Showcase Carousel
 
 <!-- Horizontally scrollable carousel of pinned projects -->
