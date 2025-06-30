@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/cornelioo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="mailto:cornelioabdimash@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge"/></a>
+  <a href="https://instagram.com/liocorcor"><img src="https://img.shields.io/badge/Instagram?logo=instagram&style=for-the-badge"/></a>
   <!--
   <a href="https://medium.com/@corneliochr"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge"/></a>
   -->
