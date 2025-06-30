@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <!-- Header -->
-<h1 align="center">Hi there, I'm Cornelio 👋</h1>
-<h3 align="center">🚀 Big Data & AI Student | 🤖 Machine Learning Enthusiast | 🇮🇩 From Indonesia</h3>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
+  <h1>Hi there, I'm Cornelio 👋</h1>
+  <h5>🚀 Big Data & AI Student | 🤖 ML Practitioner | 🇮🇩 Indonesia</h3>
+</div>
+<!--
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/144760731?v=4" alt="cornelioch" />
 </p>
+-->
 
 ---
 
