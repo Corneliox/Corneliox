@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/cornelioo">
-    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png-blue?logo=linkedin&logoColor=white&labelColor=00000000&style=for-the-badge" width="28" alt="LikedIn />
+  <a href="https://linkedin.com/in/cornelioo" target="_blank">
+    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="LinkedIn" width="28" style="background-color:#0A66C2; border-radius:6px; padding:4px;" />
   </a>
   <a href="mailto:cornelioabdimash@gmail.com">
     <img src="https://img.shields.io/badge/Email-0a66c2?logo=gmail&logoColor=white&labelColor=00000000&style=for-the-badge" />
