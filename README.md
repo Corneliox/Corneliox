@@ -90,6 +90,10 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/liocorcor">
     <img src="https://img.shields.io/badge/Instagram-833ab4?logo=instagram&logoColor=white&labelColor=00000000&style=for-the-badge" />
   </a>
+  </a>
+  <a href="[https://instagram.com/liocorcor](https://www.kaggle.com/cornelioac)">
+    <img src="https://img.shields.io/badge/Kaggle-833ab4?logo=instagram&logoColor=white&labelColor=00000000&style=for-the-badge" />
+  </a>
   <!--
   <a href="https://medium.com/@corneliochr"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&style=for-the-badge"/></a>
   -->
