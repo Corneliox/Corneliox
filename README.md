@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://linkedin.com/in/cornelioo">
-    <img src="https://i.imgur.com/OQUXwNp.jpeg-blue?logo=linkedin&logoColor=white&labelColor=00000000&style=for-the-badge" width="28" />
+    <img src="https://i.imgur.com/OQUXwNp.jpeg-blue?logo=linkedin&logoColor=white&labelColor=00000000&style=for-the-badge" width="28" alt="LikedIn />
   </a>
   <a href="mailto:cornelioabdimash@gmail.com">
     <img src="https://img.shields.io/badge/Email-0a66c2?logo=gmail&logoColor=white&labelColor=00000000&style=for-the-badge" />
