@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ What i Learn
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,git,github,vscode" /><br>
