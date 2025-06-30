@@ -71,8 +71,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=Parkinson-CollabProject&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=PalmInference&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=CLIP-StD&theme=tokyonight" />
-    
+    <!--
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=rag-n8n-whatsapp&theme=tokyonight" />
+    -->
   </div>
 </div>
 
