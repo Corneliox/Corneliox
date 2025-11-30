@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Corneliox&show_icons=true&theme=tokyonight" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Corneliox&show_icons=true&theme=tokyonight" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Corneliox&theme=tokyonight" />
 </p>
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p><b>Swipe to explore my projects 👉</b></p>
   <div style="display: flex; overflow-x: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=Parkinson-CollabProject&theme=tokyonight" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=Parkinson-CollabProject&theme=tokyonight" /> -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=PalmInference&theme=tokyonight" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Corneliox&repo=CLIP-StD&theme=tokyonight" />
     <!--
